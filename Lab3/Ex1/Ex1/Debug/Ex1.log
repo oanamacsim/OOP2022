@@ -1,0 +1,2 @@
+﻿Ex1.obj : error LNK2019: unresolved external symbol "public: static char * __cdecl Math::Add(char const *,char const *)" (?Add@Math@@SAPADPBD0@Z) referenced in function _main
+C:\Users\oanam\Desktop\uaic\OOP2022\Lab3\Ex1\Debug\Ex1.exe : fatal error LNK1120: 1 unresolved externals
